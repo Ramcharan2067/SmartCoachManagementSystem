@@ -1,0 +1,11 @@
+Train_No,Train_Type,Train_Name,Origin,Destination,Reversal_Station,Halts,Arrival_Times,Departure_Times,Halt_Times_Min,Reserved_Coaches,Gen_Front,Gen_Back,Female_Coach_Pos,Disabled_Coach_Pos
+12704,Superfast,Falaknuma Express,Secunderabad,Howrah,Visakhapatnam,SC|GNT|BZA|VSKP|BBS|HWH,15:55|18:10|19:40|03:50|10:20|17:40,15:55|18:15|19:50|04:10|10:25|17:40,0|5|10|20|5|0,17,2,2,1-Front|1-Back,1-Front|1-Back
+12727,Superfast,Godavari Express,Visakhapatnam,Hyderabad,Hyderabad,VSKP|RJY|BZA|WL|SC|HYB,17:20|20:13|22:40|01:43|05:10|06:15,17:20|20:15|22:50|01:45|05:15|06:15,0|2|10|2|5|0,18,2,2,1-Front|1-Back,1-Front|1-Back
+11020,Express,Konark Express,Bhubaneswar,CSMT Mumbai,Visakhapatnam,BBS|VSKP|BZA|SC|PUNE|CSMT,15:20|22:15|04:40|10:50|23:40|04:00,15:20|22:35|04:55|11:00|23:45|04:00,0|20|15|10|5|0,16,2,1,1-Front|1-Back,1-Front|1-Back
+12805,Superfast,Janmabhoomi Express,Visakhapatnam,Lingampalli,Vijayawada,VSKP|RJY|BZA|GNT|SC|LPI,06:20|08:35|11:55|13:10|18:20|19:40,06:20|08:40|12:05|13:15|18:25|19:40,0|5|10|5|5|0,18,3,2,1-Front|1-Back,1-Front|1-Back
+12625,Superfast,Kerala Express,Trivandrum,New Delhi,New Delhi,TVC|ERN|CBE|BZA|NDLS,12:30|16:10|19:42|10:55|13:15,12:30|16:15|19:45|11:05|13:15,0|5|3|10|0,17,2,2,1-Front|1-Back,1-Front|1-Back
+12841,Superfast,Coromandel Express,Shalimar,Chennai Central,Visakhapatnam,SHM|KGP|BBS|VSKP|BZA|MAS,15:25|17:00|21:20|04:25|09:55|16:50,15:25|17:05|21:30|04:45|10:05|16:50,0|5|10|20|10|0,18,2,2,1-Front|1-Back,1-Front|1-Back
+47158,Local,Lingampalli MMTS,Lingampalli,Falaknuma,Falaknuma,LPI|CDNR|HFZ|BMT|KCG|FM,06:10|06:14|06:19|06:40|07:05|07:30,06:10|06:15|06:20|06:41|07:06|07:30,0|1|1|1|1|0,0,5,4,1-Middle,1-Front|1-Back
+67213,Local,BZA GNT MEMU,Vijayawada,Guntur,Guntur,BZA|KCC|MAG|GNT,05:15|05:24|05:34|06:15,05:15|05:25|05:35|06:15,0|1|1|0,0,4,4,1-Middle,1-Front|1-Back
+12760,Superfast,Charminar Express,Hyderabad,Tambaram,Chennai Egmore,HYB|SC|WL|BZA|MS|TBM,18:00|18:20|20:43|00:05|07:00|08:00,18:00|18:25|20:45|00:15|07:05|08:00,0|5|2|10|5|0,18,2,2,1-Front|1-Back,1-Front|1-Back
+12711,Superfast,Pinakini Express,Vijayawada,Chennai Central,Chennai Central,BZA|TEL|OGL|NLR|GDR|MAS,06:10|06:38|08:13|09:28|10:28|13:05,06:10|06:40|08:15|09:30|10:30|13:05,0|2|2|2|2|0,14,3,3,1-Front|1-Back,1-Front|1-Back
